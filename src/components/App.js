@@ -88,7 +88,7 @@ const App = () => {
       <Header text="MyTESTApp" />
       <div>
       <img src={img1}/>
-      <h3>Watch something incredible</h3>
+      <h3>Watch Something Incredible</h3>
       </div>
       <Search search={search} />
       <p className="App-intro"></p>
